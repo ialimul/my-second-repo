@@ -4,4 +4,7 @@ p{
 }
 h3{
     background-color: olive;
+    margin: auto;
+    height: 6px;
+    width: 40%;
 }
